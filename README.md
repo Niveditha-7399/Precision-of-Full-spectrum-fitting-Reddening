@@ -31,7 +31,7 @@ Key Functions:
 - plot_reddened(): Plots the reddened spectra for each E(B-V) value. (This function is commented out in the provided code)
 
 
-## NOISE
+### NOISE
 
 - add_noise(flux, noise_mean): Adds Gaussian noise to the flux values based on a specified mean value.
 - create_noise_reddened_files(str, num_duplicates): Creates noisy versions of the reddened spectra with different noise levels and saves them to separate files.
