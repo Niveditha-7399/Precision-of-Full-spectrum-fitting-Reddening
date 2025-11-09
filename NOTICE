@@ -1,0 +1,20 @@
+NOTICE
+
+This software is licensed under the Apache License, Version 2.0.
+
+Copyright © [Niveditha Parthasarathy] [2025]
+
+If you use this software in published academic work (e.g., journal articles, conference papers, theses), please cite it as follows:
+
+[Niveditha Parthasarathy]. "[Precision-of-Full-spectrum-fitting-Reddening]," GitHub repository, https://github.com/[Niveditha-7399]/[Precision-of-Full-spectrum-fitting-Reddening], [2025].
+
+BibTeX citation:
+@misc{[project-shortname],
+  author       = {[Niveditha Parthasarathy]},
+  title        = {[Precision-of-Full-spectrum-fitting-Reddening]},
+  year         = {[2025]},
+  howpublished = {\url{https://github.com/[Niveditha-7399]/[Precision-of-Full-spectrum-fitting-Reddening]}},
+  note         = {Accessed: [Month Year]}
+}
+
+This NOTICE file must be included with any redistribution of the software. For full license terms, see https://www.apache.org/licenses/LICENSE-2.0
